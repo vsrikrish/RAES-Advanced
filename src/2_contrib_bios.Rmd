@@ -1,0 +1,9 @@
+---
+output: pdf_document
+---
+
+# Contributor Bios
+
+**Vivek Srikrishnan** is an Assistant Research Professor at Penn State. He is interested in how communities and regions  manage climate risks. This research focuses on decision-making about climate change adaptation and mitigation under coupled social, economic, and Earth system uncertainties. Vivek received his Ph.D and master's from Penn State in energy and mineral engineering. 
+
+**Klaus Keller** is a Professor of Geosciences at Penn State, where he directs the Center for Climate Risk Management as well as the research network for Sustainable Climate Risk Management (http://scrimhub.org).  Before joining Penn State, he worked as a research scientist and lecturer at Princeton University and as an engineer in Germany.  Professor Keller graduated from Princeton with a Ph.D. in civil and environmental engineering.  He received master’s degrees from M.I.T. and Princeton as well as an engineer’s degree from the Technische Universität Berlin.  His research addresses two interrelated questions.  First, how can we mechanistically understand past and potentially predict future changes in the climate system? Second, how can we use this information to design sustainable, scientifically sound, technologically feasible, economically efficient, and ethically defensible climate risk management strategies?  He analyzes these questions by mission-oriented basic research covering a wide range of disciplines such as Earth system science, economics, engineering, philosophy, decision science, and statistics.  Klaus' e-mail address is klaus@psu.edu, and his Web site is at http://www3.geosc.psu.edu/~kzk10/.

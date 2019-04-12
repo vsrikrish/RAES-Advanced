@@ -1,0 +1,109 @@
+---
+header-includes: \usepackage{amsmath,blkarray,gensymb}
+
+output:
+    pdf_document:
+        toc: true
+        toc_depth: 3
+        fig_caption: true
+---
+
+<!-- Copyright 2015 by the Authors -->
+
+<!-- This file is part of Risk Analysis in the Earth Sciences: A chap Manual with Exercises in R. -->
+
+<!-- This e-textbook is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version. -->
+
+<!-- This e-textbook is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details. -->
+
+<!-- You should have received a copy of the GNU General Public License along with this e-textbook.  If not, see <http://www.gnu.org/licenses/>. -->
+
+$\pagebreak$
+
+```{r child = "1_summary.Rmd"}
+```
+
+$\pagebreak$
+
+```{r child = "2_contrib_bios.Rmd"}
+```
+
+$\pagebreak$
+
+```{r child = "3_acknowledgements.Rmd"}
+```
+
+$\pagebreak$
+
+```{r child = "4_intro.Rmd"}
+```
+
+$\pagebreak$
+
+```{r child = "5_chap00_python_intro.Rmd"}
+```
+
+$\pagebreak$
+
+```{r child = "6_chap01_values_mental_models.Rmd"}
+```
+
+$\pagebreak$
+
+```{r child = "7_chap02_mcmc_basics.Rmd"}
+```
+
+$\pagebreak$
+
+```{r child = "8_chap03_mcmc_calibration.Rmd"}
+```
+
+$\pagebreak$
+
+```{r child = "9_chap04_mcmc_sealevel.Rmd"}
+```
+
+$\pagebreak$
+
+```{r child = "10_chap05_global_sensitivity.Rmd"}
+```
+
+$\pagebreak$
+
+```{r child = "11_chap06_decision_making_uncertainty.Rmd"}
+```
+
+$\pagebreak$
+
+```{r child = "12_chap07_dice.Rmd"}
+```
+
+$\pagebreak$
+
+```{r child = "13_chap08_mordm_lake_problem.Rmd"}
+```
+
+$\pagebreak$
+
+```{r child = "14_chap09_moea_intro.Rmd"}
+```
+
+$\pagebreak$
+
+```{r child = "15_chap10_vulnerability_robustness.Rmd"}
+```
+
+$\pagebreak$
+
+```{r child = "16_chap11_data_visualization.Rmd"}
+```
+
+$\pagebreak$
+
+```{r child = "17_chap12_visualizing_uncertainty.Rmd"}
+```
+
+$\pagebreak$
+
+```{r child = "18_license.Rmd"}
+```

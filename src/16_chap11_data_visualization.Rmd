@@ -1,0 +1,9 @@
+---
+header-includes: \usepackage{gensymb}
+output:
+  pdf_document: default
+  html_document: default
+  fig_caption: yes
+---
+
+# Chapter #11: Principles of data visualization (Vivek Srikrishnan, Kelsey L. Ruckert, and Klaus Keller)

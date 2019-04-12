@@ -1,0 +1,9 @@
+---
+header-includes: \usepackage{amsmath,blkarray}
+output:
+  pdf_document: default
+  fig_caption: yes
+  word_document: default
+---
+
+# Chapter #9: Introduction to multi-objective evolutionary algorithms and multi-objective optimization (Vivek Srikrishnan, Caitlin Spence, Giacomo Marangoni, and Patrick Applegate)

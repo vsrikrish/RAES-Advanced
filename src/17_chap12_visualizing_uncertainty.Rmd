@@ -1,0 +1,9 @@
+---
+header-includes: \usepackage{gensymb}
+output:
+  pdf_document: default
+  html_document: default
+  fig_caption: yes
+---
+
+# Chapter #12: Visualizing uncertainty using sea-level rise and storm surge (Vivek Srikrishnan, Kelsey L. Ruckert, and Klaus Keller)

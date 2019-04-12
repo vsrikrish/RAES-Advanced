@@ -1,0 +1,9 @@
+---
+header-includes: \usepackage{amsmath,blkarray}
+output:
+  pdf_document: default
+  fig_caption: yes
+  word_document: default
+---
+
+# Chapter #8: Multi-objective decision analysis with a lake management problem (Caitlin Spence, Vivek Srikrishnan, and Giacomo Marangoni)

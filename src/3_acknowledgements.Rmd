@@ -1,0 +1,15 @@
+---
+output: pdf_document
+---
+
+# Acknowledgements
+
+This work was supported by the National Science Foundation through the Network for Sustainable Climate Risk Management (SCRiM) under NSF cooperative agreement GEO-1240507.  Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.  Other support was provided by the [Center for Climate Risk Management](http://www.clima.psu.edu/index.php) and the [Rock Ethics Institute](http://rockethics.psu.edu).
+
+Katerina Kostadinova designed the cover using a photograph provided by Frank Erickson.
+
+Randy Miller created scripts for merging the parts of the book into a single `.pdf` file and created the Github repository.
+
+**Vivek Srikrishnan** thanks his colleagues and the participants in the 2016 SCRiM Summer School for helping to shape the scope of this book.  
+
+**Klaus Keller** thanks all the students from the Risk Analysis course, the members of the Keller research group, and his SCRiM collaborators for invaluable inputs. Special thanks go to his family, many mentors, and friends for support.

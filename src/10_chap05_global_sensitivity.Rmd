@@ -1,0 +1,13 @@
+---
+header-includes: \usepackage{gensymb}
+output:
+  pdf_document: default
+  html_document: default
+  fig_caption: yes
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Chapter #5: Global sensitivity analyses (Tony E. Wong, Vivek Srikrishnan and Klaus Keller)

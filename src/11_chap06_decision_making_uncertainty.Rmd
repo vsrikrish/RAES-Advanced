@@ -1,0 +1,9 @@
+---
+header-includes: \usepackage{gensymb}
+output:
+  pdf_document: default
+  html_document: default
+  fig_caption: yes
+---
+
+# Chapter #6: Decision-making under uncertainty (Vivek Srikrishnan and Klaus Keller)
